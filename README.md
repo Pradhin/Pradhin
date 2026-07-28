@@ -62,7 +62,7 @@ Artificial Intelligence & Data Science Graduate
 
 # 💻 Tech Stack
 
-<p align="center">
+
 
 <img src="https://skillicons.dev/icons?i=python,c,java,react,nodejs,express,mongodb,mysql,html,css,git,github,vscode,firebase,tensorflow"/>
 
