@@ -1,6 +1,85 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pradhin/Pradhin/main/banner.png.png" alt="GitHub Banner" width="100%" />
 </p>
+/* Background */
+body{
+    margin:0;
+    padding:0;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg,#020617,#081229,#0f172a,#071c33);
+    color:#ffffff;
+}
+
+/* Section */
+section{
+    padding:40px;
+    border-bottom:1px solid rgba(255,255,255,0.1);
+}
+
+/* Heading */
+h1,h2,h3{
+    color:#ffffff;
+}
+
+h1{
+    font-size:55px;
+    font-weight:700;
+}
+
+h2{
+    font-size:42px;
+}
+
+/* Blue Highlight */
+.highlight{
+    color:#38bdf8;
+}
+
+/* About Card */
+.about{
+    background:rgba(255,255,255,.05);
+    border:1px solid rgba(255,255,255,.08);
+    border-radius:15px;
+    padding:30px;
+    backdrop-filter:blur(10px);
+}
+
+/* Buttons */
+.badge{
+    display:inline-block;
+    padding:10px 20px;
+    margin:5px;
+    border-radius:6px;
+    color:white;
+    font-weight:600;
+}
+
+.work{background:#22c55e;}
+.ai{background:#2563eb;}
+.learning{background:#0ea5e9;}
+.active{background:#ea580c;}
+.profile{background:#374151;}
+
+/* Links */
+a{
+    color:#38bdf8;
+    text-decoration:none;
+}
+
+a:hover{
+    color:#7dd3fc;
+}
+
+/* Image */
+.profile-img{
+    width:420px;
+    border-radius:20px;
+}
+
+/* Divider */
+hr{
+    border:1px solid rgba(255,255,255,.1);
+}
 <h1 align="center">Hi 👋, I'm Pradhin Shetty</h1>
 
 <h3 align="center">
