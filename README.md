@@ -21,27 +21,7 @@ Artificial Intelligence & Data Science Graduate
 
 
 
-# 👨‍💻 About Me
-
-🎓 B.E. in Artificial Intelligence & Data Science
-
-🌱 Currently learning **Deep Learning & Generative AI**
-
-💻 Interested in **AI, Machine Learning, Data Analytics & Full Stack Development**
-
-🚀 Building real-world AI applications
-
-📫 **03pradhinshetty@gmail.com**
-
-💼 Looking for **Software Developer | AI Engineer | ML Engineer** opportunities
-
-⚡ I enjoy solving real-world problems using technology.
-
-<br>
-
-<p align="center">
-  <img width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</p>
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> # 👨‍💻 About Me 🎓 B.E. in Artificial Intelligence & Data Science 🌱 Currently learning **Deep Learning & Generative AI** 💻 Interested in **AI, Machine Learning, Data Analytics & Full Stack Development** 🚀 Building real-world AI applications 📫 **03pradhinshetty@gmail.com** 💼 Looking for **Software Developer | AI Engineer | ML Engineer** opportunities ⚡ I enjoy solving real-world problems using technology.
 
 
 
