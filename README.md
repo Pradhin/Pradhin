@@ -1,6 +1,5 @@
-<!-- Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Pradhin%20Shetty&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/Pradhin/main/banner.png.png" alt="GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Pradhin Shetty</h1>
