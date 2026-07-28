@@ -83,29 +83,6 @@ Artificial Intelligence & Data Science Graduate
 
 📈 **Sales Advertising Prediction**
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pradhin&show_icons=true&theme=tokyonight"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradhin&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Pradhin&theme=tokyonight"/>
-
-</p>
-
----
 
 # 📈 Activity Graph
 
