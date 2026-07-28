@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/Pradhin/main/banner.png.png" alt="GitHub Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Pradhin/Pradhin/main/banner.png.png" alt="GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Pradhin Shetty</h1>
