@@ -23,7 +23,7 @@ Artificial Intelligence & Data Science Graduate
 
 
 
-👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
 🎓 B.E. in Artificial Intelligence & Data Science
 
