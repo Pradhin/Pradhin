@@ -17,7 +17,9 @@ Artificial Intelligence & Data Science Graduate
 <img src="https://img.shields.io/badge/AI%20Engineer-Learning-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Profile-Active-orange?style=for-the-badge"/>
 </p>
-<img align="right" width="380" src="https://media.giphy.com/media/3o7TKsQ8UQ8Q4Q5bQ4/giphy.gif">
+
+
+<img align="right" width="380" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif">
 
 # 👨‍💻 About Me
 
