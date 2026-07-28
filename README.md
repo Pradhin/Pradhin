@@ -80,5 +80,5 @@ Artificial Intelligence & Data Science Graduate
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:434343"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:001124,30:002D5E,70:004078,100:038CD7"/>
 </p>
