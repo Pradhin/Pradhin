@@ -37,7 +37,7 @@ Artificial Intelligence & Data Science Graduate
 
 🚀 Building real-world AI applications
 
-📫 **03pradhinshetty@gmail.com**
+
 
 ---
 
