@@ -20,7 +20,7 @@ Artificial Intelligence & Data Science Graduate
 </p>
 
 
-<img align="right" width="380" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+<img align="right" width="380" src="https://media.giphy.com/media/3o7TKsQ8UQ8Q4Q5bQ4/giphy.gif">
 # 👨‍💻 About Me
 
 🎓 B.E. in Artificial Intelligence & Data Science
