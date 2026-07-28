@@ -65,53 +65,6 @@ Artificial Intelligence & Data Science Graduate
 <img src="https://skillicons.dev/icons?i=python,c,java,react,nodejs,express,mongodb,mysql,html,css,git,github,vscode,firebase,tensorflow"/>
 </p>
 
----
-
-# 🚀 Featured Projects
-
-🏥 **MediSync** – Smart Medicine Tracking & Pharmacy Integration
-
-🏡 **Mane Kelsa** – Hyper Local Worker Finder
-
-🌍 **Air Pollution Analysis**
-
-📊 **Hotel Booking Prediction**
-
-📈 **Sales Advertising Prediction**
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 Achievements
-
-- 🎓 AI & Data Science Graduate
-- 🤖 Machine Learning Enthusiast
-- 💻 Full Stack Developer
-- 📊 Data Analytics
-- 🚀 Open Source Learner
-
----
 
 <h3 align="center">
 ⭐ Thanks for Visiting My Profile ⭐
