@@ -29,15 +29,15 @@ Artificial Intelligence & Data Science Graduate
 
 🌱 Currently learning **Deep Learning & Generative AI**
 
-📫 **03pradhinshetty@gmail.com**
-
-🚀 Building real-world AI applications
-
 💻 Interested in **AI, Machine Learning, Data Analytics & Full Stack Development**
 
 💼 Looking for **Software Developer | AI Engineer | ML Engineer** opportunities
 
 ⚡ I enjoy solving real-world problems using technology.
+
+🚀 Building real-world AI applications
+
+📫 **03pradhinshetty@gmail.com**
 
 ---
 
