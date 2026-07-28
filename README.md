@@ -21,7 +21,7 @@ Artificial Intelligence & Data Science Graduate
 
 ---
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="380" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
 # 👨‍💻 About Me
 
