@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pradhin Shetty</h1>
 
 <h3 align="center">
-Artificial Intelligence & Data Science Graduate | AI & ML Enthusiast
+Artificial Intelligence & Data Science Graduate 
 </h3>
 
 <p align="center">
@@ -51,57 +51,7 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 </p>
 
----
 
-## 🚀 Featured Projects
-
-🏥 **MediSync** – Smart Medicine Tracker & Pharmacy Integration
-
-🏡 **Mane Kelsa** – Hyper Local Worker Finder
-
-🌍 **Air Pollution Analysis**
-
-📊 **Hotel Booking Prediction**
-
-📈 **Sales Advertising Prediction**
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
-## 💻 Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia)
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
-
----
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight">
-</p>
-
----
 
 <h2 align="center">
 ⭐ Thanks for Visiting My Profile ⭐
