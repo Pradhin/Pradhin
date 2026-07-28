@@ -71,28 +71,6 @@ Artificial Intelligence & Data Science Graduate
 
 ---
 
-# 🚀 Featured Projects
-
-🏥 **MediSync** – Smart Medicine Tracker & Pharmacy Integration
-
-🏡 **Mane Kelsa** – Hyper Local Worker Finder
-
-🌍 **Air Pollution Analysis**
-
-📊 **Hotel Booking Prediction**
-
-📈 **Sales Advertising Prediction**
-
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradhin&theme=tokyo-night"/>
-
-</p>
-
----
 
 <h3 align="center">
 
