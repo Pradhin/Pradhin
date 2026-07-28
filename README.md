@@ -53,7 +53,7 @@ Artificial Intelligence & Data Science Graduate
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Pradhin">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
