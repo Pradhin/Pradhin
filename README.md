@@ -101,7 +101,7 @@ Artificial Intelligence & Data Science Graduate
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Pradhin&theme=tokyonight"/>
 
 </p>
 
@@ -111,7 +111,7 @@ Artificial Intelligence & Data Science Graduate
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradhin&theme=tokyo-night"/>
 
 </p>
 
