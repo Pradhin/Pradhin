@@ -19,7 +19,7 @@ Artificial Intelligence & Data Science Graduate
 <img src="https://img.shields.io/badge/Profile-Active-orange?style=for-the-badge"/>
 </p>
 
----<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 # 👨‍💻 About Me
 
