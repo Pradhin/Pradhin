@@ -68,6 +68,7 @@ Artificial Intelligence & Data Science Graduate
 <img src="https://skillicons.dev/icons?i=python,c,java,react,nodejs,express,mongodb,mysql,html,css,git,github,vscode,firebase,tensorflow"/>
 
 </p>
+
 # 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=Pradhin&label=Profile%20Views&color=0e75b6&style=flat)
