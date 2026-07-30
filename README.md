@@ -70,12 +70,7 @@ Artificial Intelligence & Data Science Graduate
 </p>
 
 
-## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=Pradhin&label=Profile%20Views&color=0e75b6&style=flat)
-
-
----
 
 
 <h3 align="center">
