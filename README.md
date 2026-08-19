@@ -25,7 +25,7 @@ Artificial Intelligence & Data Science Graduate
 
 # 👨‍💻 About Me
 
-🎓 B.E. in Artificial Intelligence & Data Science
+🎓 B.E. in 
 
 🌱 Currently learning **Deep Learning & Generative AI**
 
